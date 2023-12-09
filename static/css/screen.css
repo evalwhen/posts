@@ -16,6 +16,9 @@
   box-sizing: border-box;
 }
 
+p {
+}
+
 body {
   background: #FFFFFF;
   color: var(--primary-text-color);
@@ -71,7 +74,8 @@ blockquote::after {
 
 p {
   margin: 1.4rem 0;
-  font-size: 1.4rem;
+  font-size: 1.2rem;
+  line-height: 2.5rem;
 }
 
 p + p {
