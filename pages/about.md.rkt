@@ -15,8 +15,7 @@ By leveraging macros, we can implement so many common language features.
 
 I'll predominantly use English to share my think with the world, thank you.
 
-If you want to get in touch, [email] me. Find out about new posts by
-subscribing to the [Atom] feed.
+If you want to get in touch, [email] me.
 
 [email]: mailto:coolvimer@gmail.com
 [gh]: https://github.com/evalwhen
