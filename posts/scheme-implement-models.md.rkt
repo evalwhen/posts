@@ -23,8 +23,8 @@ continuation 等特性，而 Closure 的创建需要将环境也一同保存下�
 的支持 (需要拷贝栈内容到 closure) 。后续文章将会详细介绍 stack-based model，与大家分享，也希望错误的
 理解能被纠正。
 
-另外，这边 paper 的可读性非常高，Dybvig 的文笔读起来也是非常舒服。paper 里面的 [代码] 都是可以执行的，
-有很多抽象机的实现，非常优雅和简洁。而这很大程度上是得益于 Scheme 代码即数据的优点。
+另外， [Three Implementation Models for Scheme] 的可读性非常高，Dybvig 的文笔读起来非常舒服。paper 里面的 [代码] 都是可以执行的，
+有很多抽象机的实现，非常优雅和简洁。而这很大程度上是得益于 Scheme 代码即数据的优点。Enjoy!
 
 [Three Implementation Models for Scheme]: https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=bc896e5336120b0f4ad00feb500cd7ce70134836
 [代码]: https://github.com/evalwhen/dybvig-three-imp
