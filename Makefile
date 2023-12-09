@@ -11,6 +11,4 @@ clean:
 
 deploy: public/index.xml
 	cp -r public/* ../evalwhen.github.io
-	cd ../evalwhen.github.io
-	git commit -am "publish"
-	git push
+	cd ../evalwhen.github.io && git commit -am "publish" && git push

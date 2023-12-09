@@ -7,8 +7,8 @@ date: 2023-12-06T00:00:00+00:00
 
 Scheme is my favority programming language. I known Scheme from SICP，
 
-I'm a self teach programmer from 2016. SICP is my first programming book, i loved it,
-enjoy reading it, i learned so much from SICP.
+I'm a self-taught programmer from 2016. SICP is my first programming book, I loved it,
+enjoy reading it, I learned so much from SICP.
 
 Currently, I work in china, I live by building monitor system. Golang is my working language.
 After work, I like think with scheme, write with scheme, play with scheme. 
