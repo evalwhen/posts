@@ -4,12 +4,12 @@
   font-weight: normal;
   font-stretch: normal;
   font-display: auto;
-  /* src: url("/fonts/NotoSansTC-Regular.ttf"); */
+  src: url("/fonts/NotoSansTC-Regular.ttf");
   /* src: url("/fonts/yyyy.ttf"); */
   /* src: url("/fonts/yyyy2.ttf"); */
   /* src: url("/fonts/yyyy3.ttf"); */
   /* src: url("/fonts/yyyy4.ttf"); */
-  src: url("/fonts/valkyrie_a_regular.woff2");
+  /* src: url("/fonts/valkyrie_a_regular.woff2"); */
 }
 
 @font-face {
