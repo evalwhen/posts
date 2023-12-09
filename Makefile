@@ -9,6 +9,9 @@ clean:
 # deploy: public/index.xml
 # 	rsync -avz --delete public/* defn:~/www
 
+save: public/index.xml
+	git add -A && git commit -am "save" && git push
+
 deploy: public/index.xml
 	cp -r public/* ../evalwhen.github.io
 	cd ../evalwhen.github.io && git add -A && git commit -am "publish" && git push
