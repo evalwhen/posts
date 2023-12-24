@@ -1,3 +1,6 @@
+dev:
+	raco chief start
+
 public/index.xml: pages/*.rkt posts/*.rkt *.rkt
 	racket -y main.rkt
 
@@ -15,3 +18,4 @@ save: public/index.xml
 deploy: save
 	cp -r public/* ../evalwhen.github.io
 	cd ../evalwhen.github.io && git add -A && git commit -am "publish" && git push
+
